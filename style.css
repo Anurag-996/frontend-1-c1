@@ -79,6 +79,7 @@ main {
   text-align: left;
   width: 160px;
   border-radius: 500px;
+  border: none;
   text-align: center;
   margin: 2rem 0;
   cursor: pointer;
@@ -148,6 +149,7 @@ input:focus {
   margin: auto;
   margin-top: 10px;
   cursor: pointer;
+  border: none;
 }
 
 /* table section styles */
